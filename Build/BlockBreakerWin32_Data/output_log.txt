@@ -1,0 +1,69 @@
+Initialize engine version: 5.0.1f1 (5a2e8fe35a68)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: Intel(R) HD Graphics Family (ID=0xa16)
+    Vendor:   Intel
+    VRAM:     896 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\Kolesnikov\Documents\UnityProjects\BlockBreaker2\Build\BlockBreakerWin32_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\Kolesnikov\Documents\UnityProjects\BlockBreaker2\Build\BlockBreakerWin32_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\Kolesnikov\Documents\UnityProjects\BlockBreaker2\Build\BlockBreakerWin32_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\Kolesnikov\Documents\UnityProjects\BlockBreaker2\Build\BlockBreakerWin32_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\Kolesnikov\Documents\UnityProjects\BlockBreaker2\Build\BlockBreakerWin32_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\Kolesnikov\Documents\UnityProjects\BlockBreaker2\Build\BlockBreakerWin32_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+- Completed reload, in  0.067 seconds
+desktop: 3200x1800 60Hz; virtual: 12200x2625 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+Platform assembly: C:\Users\Kolesnikov\Documents\UnityProjects\BlockBreaker2\Build\BlockBreakerWin32_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\Kolesnikov\Documents\UnityProjects\BlockBreaker2\Build\BlockBreakerWin32_Data\Managed\System.dll (this message is harmless)
+MusicPlayer Awake 10186
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+MusicPlayer Start 10186
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 5.516729 ms
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 209.
+Total: 0.222379 ms (FindLiveObjects: 0.038488 ms CreateObjectMapping: 0.014967 ms MarkObjects: 0.160370 ms  DeleteObjects: 0.006842 ms)
+
+Ball (Ball)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.376762 ms
+
+Unloading 2 unused Assets to reduce memory usage. Loaded Objects now: 209.
+Total: 0.212116 ms (FindLiveObjects: 0.020099 ms CreateObjectMapping: 0.020955 ms MarkObjects: 0.164646 ms  DeleteObjects: 0.004276 ms)
+
+Ball (Ball)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.572627 ms
+
+Unloading 10 unused Assets to reduce memory usage. Loaded Objects now: 190.
+Total: 0.196720 ms (FindLiveObjects: 0.013684 ms CreateObjectMapping: 0.010263 ms MarkObjects: 0.159087 ms  DeleteObjects: 0.011974 ms)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.629505 ms
+MusicPlayer Awake 10594
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Duplicate music palyer self-destruction!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+
+Unloading 2 unused Assets to reduce memory usage. Loaded Objects now: 202.
+Total: 0.219386 ms (FindLiveObjects: 0.027797 ms CreateObjectMapping: 0.011974 ms MarkObjects: 0.172771 ms  DeleteObjects: 0.005559 ms)
+
